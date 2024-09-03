@@ -57,7 +57,7 @@ Codeと書かれたボタンをクリックし、Download ZIPを押してくだ�
 | cold planet | INSANE ♫2 | 難しい要素はないのにスコアが出ない。難易度付けが難しい。 |
 | Mario Paint (Time Regression Mix) | INSANE ♫2 | レーンがうねうねするのはフリックの予告です |
 | How to make 音ゲ～曲! | INSANE ♫4 | 動画のものから一番修正した譜面 |
-| Overjoy ★ OVERDOSE!! | INSANE ♫3 | あの配置は　おぼろげながら　浮かんできたんです |
+| Overjoy ★ OVERDOSE!! | INSANE ♫3 |  |
 | Papyrus | INSANE ♫1 |  |
 | Psalms ～魂の還るばしょ～ | INSANE ♫6 | 正規は二回目のプレイですでに呪われていたので乱常備でやってます |
 | 桜華月 | INSANE ♫1 | ONTROLLERを買って、つまりレバーが実装されて、一番最初に作った譜面 |
