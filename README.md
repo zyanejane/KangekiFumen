@@ -55,7 +55,7 @@ Codeと書かれたボタンをクリックし、Download ZIPを押してくだ�
 |--|--|--|
 | After Burner | INSANE ♫3 | グリッサンド配置好きです |
 | cold planet | INSANE ♫2 | 難しい要素はないのにスコアが出ない。難易度付けが難しい。 |
-| Mario Paint (Time Regression Mix) | INSANE ♫2 |  |
+| Mario Paint (Time Regression Mix) | INSANE ♫2 | レーンがうねうねするのはフリックの予告です |
 | How to make 音ゲ～曲! | INSANE ♫4 | 動画のものから一番修正した譜面 |
 | Overjoy ★ OVERDOSE!! | INSANE ♫3 | あの配置は　おぼろげながら　浮かんできたんです |
 | Papyrus | INSANE ♫1 |  |
