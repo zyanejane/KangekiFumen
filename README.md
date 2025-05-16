@@ -53,6 +53,7 @@ Codeと書かれたボタンをクリックし、Download ZIPを押してくだ�
 
 | 曲名(曲情報は[BMS Links](#BMS-Links)を参照) | 難易度 | ひとこと |
 |--|--|--|
+| -195.8 | INSANE ♫4 |  |
 | After Burner | INSANE ♫3 | グリッサンド配置好きです |
 | cold planet | INSANE ♫2 | 難しい要素はないのにスコアが出ない。難易度付けが難しい。 |
 | Mario Paint (Time Regression Mix) | INSANE ♫2 | レーンがうねうねするのはフリックの予告です |
@@ -61,6 +62,8 @@ Codeと書かれたボタンをクリックし、Download ZIPを押してくだ�
 | Papyrus | INSANE ♫1 |  |
 | Psalms ～魂の還るばしょ～ | INSANE ♫6 | 正規は二回目のプレイですでに呪われていたので乱常備でやってます |
 | 桜華月 | INSANE ♫1 | ONTROLLERを買って、つまりレバーが実装されて、一番最初に作った譜面 |
+| Save Yourself | INSANE ♫2 |  |
+| タイムリープで君を救う音頭 | INSANE ♫6 | ぜひBGA(ミュージックビデオ)も見てください |
 | Wizdomiot | INSANE ♫2 | 自分で遊ぶために初めて作った譜面。せっかくなのでレバー操作不要のままいじらず。 |
 | 俗物フェスティバル | INSANE ♫4 | ♫5でもいいような気がする |
 
@@ -69,6 +72,10 @@ Codeと書かれたボタンをクリックし、Download ZIPを押してくだ�
 
 Artistは敬称略とさせていただきます。
 
+- -195.8 (フォルダ：1958)  
+  - Artist: Lalot.
+  - Genre: Extreme Symphony
+  - URL: https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=146
 - After Burner (フォルダ：AfterBurner)  
   - Artist: ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。
   - Genre: BRAVE
@@ -101,6 +108,14 @@ Artistは敬称略とさせていただきます。
   - Artist: AKITO
   - Genre: JP-SPIRITUAL POP
   - URL: https://web.archive.org/web/20050915121030/http://page.freett.com/akito11/bms.html
+- Save Yourself(フォルダ：SaveYourself)  
+  - Artist: litmus* ft. Miori Celesta
+  - Genre: JP-SPIRITUAL POP
+  - URL: https://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=146
+- タイムリープで君を救う音頭(フォルダ：TimeleapOndo)  
+  - Artist: momo★yama
+  - Genre: う
+  - URL: https://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=146
 - Wizdomiot(フォルダ：Wizdomiot)  
   - Artist: LeaF
   - Genre: RATIONAL PUNISHMENT
@@ -113,3 +128,8 @@ Artistは敬称略とさせていただきます。
 ## TIPS
 - ジャケット画像などのファイル名は基本的に任意らしいが、アンダーバーで始まると認識されないようだ
 - 低BPMの曲でハイスピを設定上限にしてもなお緑数字が大きいときは、エディタで譜面ファイルを開いて冒頭にSCROLL SPEED定義を入れると良いかもしれない
+
+## 更新履歴
+2024.09.03 初回更新。10譜面追加。
+2025.05.16 BOF:TTよりKANGEKI映えしそうな3曲(「-195.8」「Save Yourself」「タイムリープで君を救う音頭」)を追加。
+
